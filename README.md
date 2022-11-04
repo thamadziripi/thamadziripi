@@ -4,7 +4,6 @@
 ```python
 
 class AboutTino:
-
     def __init__(self):
         self.languages = ['Python', 'Swift', 'Swift UI', 'SQL', 'R', 'HTML', 'CSS']
         self.skills = ['Machine Learning', 'Deep Learning', 'Data Engineering', 'Web/Mobile Development']
