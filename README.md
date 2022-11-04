@@ -10,7 +10,7 @@ class AboutTino:
         self.contact_details = {'email': 'tino.hamadziripi@outlook.com'}
 
     def get_in_touch(self):
-        print(f"Lets get in touch: {self.contact_details['email']}")
+        print(f"Welcome to my GitHub - Lets get in touch: {self.contact_details['email']}")
 
 
 # Run application
