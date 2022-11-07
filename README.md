@@ -1,4 +1,4 @@
-# Hey, **I'm Tino 👋**
+# Hi, **I'm Tino 👋**
 
 ![Followers](https://img.shields.io/github/followers/thamadziripi?style=social)
 ![Stars](https://img.shields.io/github/stars/thamadziripi?style=social)
