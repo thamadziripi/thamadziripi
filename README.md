@@ -8,7 +8,7 @@
 
 class AboutTino:
     def __init__(self):
-        self.languages = ['Python', 'Swift', 'Swift UI', 'SQL', 'R', 'HTML', 'CSS']
+        self.languages = ['Python', 'R', 'SQL', 'C++']
         self.skills = ['Machine Learning', 'Deep Learning', 'Data Engineering', 'Web/Mobile Development']
         self.contact_details = {'email': 'tino.hamadziripi@outlook.com'}
 
